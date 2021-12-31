@@ -160,3 +160,6 @@ export const getComments = async (slug) => {
 
   return results.comments;
 };
+
+
+//test from laptop
